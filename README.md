@@ -21,6 +21,11 @@
 
 ![](http://upload-images.jianshu.io/upload_images/4037105-7a0137a2ca223736.gif?imageMogr2/auto-orient/strip)
 
+* 更多干货请下载app
+
+
+![黑马助手.png](http://upload-images.jianshu.io/upload_images/4037105-f777f1214328dcc4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ## 使用步骤
 
 ### 1. 在project的build.gradle添加如下代码(如下图)
