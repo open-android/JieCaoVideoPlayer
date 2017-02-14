@@ -2,6 +2,7 @@
 开源地址：[https://github.com/open-android/JieCaoVideoPlayer](https://github.com/open-android/JieCaoVideoPlayer)
 
 简书：[http://www.jianshu.com/p/618a5820261c](http://www.jianshu.com/p/618a5820261c "简书地址")
+
 ##主要特点
 
 1. 视频全屏播放和浮层小窗播放
